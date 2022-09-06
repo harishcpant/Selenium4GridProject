@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T22:30:21 IST" name="Suite" finished-at="2022-08-25T22:31:05 IST" duration-ms="44605">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T22:30:21 IST" name="Test" finished-at="2022-08-25T22:31:05 IST" duration-ms="44605">
+      <class name="tests.One">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.One@76c3e77a]" started-at="2022-08-25T22:30:21 IST" name="setup" finished-at="2022-08-25T22:30:32 IST" duration-ms="11317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOne()[pri:0, instance:tests.One@76c3e77a]" started-at="2022-08-25T22:30:32 IST" name="testOne" finished-at="2022-08-25T22:30:36 IST" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="testDown()[pri:0, instance:tests.One@76c3e77a]" started-at="2022-08-25T22:30:36 IST" name="testDown" finished-at="2022-08-25T22:30:36 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDown -->
+      </class> <!-- tests.One -->
+      <class name="tests.Three">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Three@e15b7e8]" started-at="2022-08-25T22:30:52 IST" name="setup" finished-at="2022-08-25T22:31:02 IST" duration-ms="9572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testThree()[pri:0, instance:tests.Three@e15b7e8]" started-at="2022-08-25T22:31:02 IST" name="testThree" finished-at="2022-08-25T22:31:05 IST" duration-ms="3124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method is-config="true" signature="testDown()[pri:0, instance:tests.Three@e15b7e8]" started-at="2022-08-25T22:31:05 IST" name="testDown" finished-at="2022-08-25T22:31:05 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDown -->
+      </class> <!-- tests.Three -->
+      <class name="tests.Two">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Two@209da20d]" started-at="2022-08-25T22:30:36 IST" name="setup" finished-at="2022-08-25T22:30:48 IST" duration-ms="12068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testTwo()[pri:0, instance:tests.Two@209da20d]" started-at="2022-08-25T22:30:48 IST" name="testTwo" finished-at="2022-08-25T22:30:52 IST" duration-ms="3610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method is-config="true" signature="testDown()[pri:0, instance:tests.Two@209da20d]" started-at="2022-08-25T22:30:52 IST" name="testDown" finished-at="2022-08-25T22:30:52 IST" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDown -->
+      </class> <!-- tests.Two -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
